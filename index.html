@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Page</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+</head>
+
+<body>
+    <div class="container vh-100">
+        <div class="row justify-content-center h-100">
+            <div class="card w-50 my-auto shadow">
+                <div class="card-header text-center bg-primary text-white" style="margin-top:5px; border-radius:1ex;">
+                    <h1>Sign Up</h1>
+                </div>
+                <div class="panel-body">
+                    <form action="connect.php" method="post">
+                        <div class="form">
+                            <img src="images/372-3720173_alumni-registration-register-icon-circle.png" alt="Avatar"
+                                style="height:100%; width: 100%; object-fit: contain;" />
+                        </div>
+                        <div class="form">
+                            <label for="name"><b>Full Name</b></label>
+                            <input type="text" class="form-control" id="name" placeholder="Full Name" name="name" />
+                        </div>
+                        <div class="form">
+                            <label for="gender"><b>Gender</b></label>
+                            <select name="gender" id="gender" style="margin-top:5px;">
+                                <option value="">--not selected--</option>
+                                <option value=" M">Male</option>
+                                <option value="F">Female</option>
+                                <option value="O">Other</option>
+                            </select>
+                        </div>
+                        <div class="form">
+                            <label for="mobile"><b>Mobile Number</b></label>
+                            <input type="number" class="form-control" id="mobile" placeholder="Mobile Number"
+                                name="mobile" />
+                        </div>
+                        <div class="form">
+                            <label for="email"><b>Email*</b></label>
+                            <input type="text" class="form-control" id="email" placeholder="Email Id" name="email"
+                                required />
+                        </div>
+                        <div class="form">
+                            <label for="password"><b>Password*</b></label>
+                            <input type="password" class="form-control" id="password" placeholder="Password"
+                                name="password" required />
+                        </div>
+                        <div class="form">
+                            <label for="language1"><b>First Priority Language &rArr;</b></label>
+                            <select name="language1" id="language1" style="margin-top:5px;">
+                                <option value="">--not selected--</option>
+                                <option value="Python">Python</option>
+                                <option value="Java">Java</option>
+                                <option value="C++">C++</option>
+                                <option value="C">C</option>
+                                <option value="C#">C#</option>
+                            </select>
+                        </div>
+                        <div class="form">
+                            <label for="language2"><b>Second Priority Language &rArr;</b></label>
+                            <select name="language2" id="language2" style="margin-top:5px;">
+                                <option value="">--not selected--</option>
+                                <option value="Python">Python</option>
+                                <option value="Java">Java</option>
+                                <option value="C++">C++</option>
+                                <option value="C">C</option>
+                                <option value="C#">C#</option>
+                            </select>
+                        </div>
+                        <div class="form">
+                            <label for="language3"><b>Third Priority Language &rArr;</b></label>
+                            <select name="language3" id="language3" style="margin-top:5px;">
+                                <option value="">--not selected--</option>
+                                <option value="Python">Python</option>
+                                <option value="Java">Java</option>
+                                <option value="C++">C++</option>
+                                <option value="C">C</option>
+                                <option value="C#">C#</option>
+                            </select>
+                        </div>
+                        <div class="form">
+                            <label for="developer"><b>Developer Type &rArr;</b></label>
+                            <select name="developer" id="developer" style="margin-top:5px;">
+                                <option value="">--not selected--</option>
+                                <option value="Front-End">Front-End</option>
+                                <option value="Back-End">Back-End</option>
+                                <option value="Full Stack">Full Stack</option>
+                                <option value="App Developer">App Developer</option>
+                            </select>
+                        </div>
+                        <div class="form">
+                            <label for="location"><b>Enter City</b></label>
+                            <input type="text" class="form-control" id="location" placeholder="Enter City Name"
+                                name="location" />
+                        </div>
+                        <div class="form">
+                            <label for="linkedin"><b>Enter Linkedin username*</b></label>
+                            <input type="text" class="form-control" id="linkedin" placeholder="Linkedin Profile Name"
+                                name="linkedin" />
+                        </div>
+                        <div class="form">
+                            <label for="github"><b>Enter Github username*</b></label>
+                            <input type="text" class="form-control" id="github" placeholder="Github Username"
+                                name="github" />
+                        </div>
+                        <div class="form">
+                            <input type="submit" class="btn btn-primary" onclick="alert('confirm submission')"
+                                style="margin-top:5px;" />
+                        </div>
+                    </form>
+                    <a href="login.html"><button class="btn btn-secondary"
+                            style="margin-top:4px; margin-bottom:5px;">Login
+                            here</button></a>
+                    <a href="home.html" style="left:0%;"><b>Enter as a guest</b></a>
+                </div>
+                <div class="card-footer" style="text-align:right ;">
+                    <small>&copy; Parthiv Sadhukhan</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
