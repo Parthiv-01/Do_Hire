@@ -15,18 +15,3 @@ DoHire website is a solution for seeking a person to assign him/her in a specifi
 **Server:** PHP
 
 **DBMS:** MySQL
-
-
-## Screenshots
-
-![SignUp Page](https://drive.google.com/file/d/1z1KLGPBUAk_ULQfkshHpdE2gvynvNhtK/view?usp=share_link)
-
-![Login Page](https://drive.google.com/file/d/10aVEmRrnUwo8S5_EEa0gwt5x_UIqxoE4view?usp=share_link)
-
-![Home Page](https://drive.google.com/file/d/1Jixa8hfMZeHfS9hIpVab9Ig4bI6MnHnTview?usp=share_link)
-
-![My Account](https://drive.google.com/file/d/1mNotWqAy9pl44IFfbF2Yw9K_7xlIGo3Iview?usp=share_link)
-
-![Looking for Hire](https://drive.google.com/file/d/1JBsb04Ouy3mT4SBOdoN72yCitfJzXVStview?usp=share_link)
-
-![DoHire](https://drive.google.com/file/d/1prSkDBIPXGSMIwch3iWnDSKPvJzErvShview?usp=share_link)
