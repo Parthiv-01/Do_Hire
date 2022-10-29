@@ -19,14 +19,14 @@ DoHire website is a solution for seeking a person to assign him/her in a specifi
 
 ## Screenshots
 
-![SignUp Page](https://drive.google.com/file/d/1z1KLGPBUAk_ULQfkshHpdE2gvynvNhtK/view)
+![SignUp Page](https://drive.google.com/file/d/1z1KLGPBUAk_ULQfkshHpdE2gvynvNhtK/view?usp=share_link)
 
-![Login Page](https://drive.google.com/file/d/10aVEmRrnUwo8S5_EEa0gwt5x_UIqxoE4)
+![Login Page](https://drive.google.com/file/d/10aVEmRrnUwo8S5_EEa0gwt5x_UIqxoE4view?usp=share_link)
 
-![Home Page](https://drive.google.com/file/d/1Jixa8hfMZeHfS9hIpVab9Ig4bI6MnHnT)
+![Home Page](https://drive.google.com/file/d/1Jixa8hfMZeHfS9hIpVab9Ig4bI6MnHnTview?usp=share_link)
 
-![My Account](https://drive.google.com/file/d/1mNotWqAy9pl44IFfbF2Yw9K_7xlIGo3I)
+![My Account](https://drive.google.com/file/d/1mNotWqAy9pl44IFfbF2Yw9K_7xlIGo3Iview?usp=share_link)
 
-![Looking for Hire](https://drive.google.com/file/d/1JBsb04Ouy3mT4SBOdoN72yCitfJzXVSt)
+![Looking for Hire](https://drive.google.com/file/d/1JBsb04Ouy3mT4SBOdoN72yCitfJzXVStview?usp=share_link)
 
-![DoHire](https://drive.google.com/file/d/1prSkDBIPXGSMIwch3iWnDSKPvJzErvSh)
+![DoHire](https://drive.google.com/file/d/1prSkDBIPXGSMIwch3iWnDSKPvJzErvShview?usp=share_link)
