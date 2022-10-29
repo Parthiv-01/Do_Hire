@@ -4,7 +4,7 @@
 
 # DoHire
 
-DoHire website is a solution for seeking a person to assign him/her in a specific project or, task as per your requirements. You can easily check the database of other users and get their contact details, linkedin and github username.
+DoHire website is a solution for seeking a person to assign him/her in a specific project or, task as per your requirements. You can easily check the database of other users and get their contact details, linkedin, github username etc.
 
 
 
