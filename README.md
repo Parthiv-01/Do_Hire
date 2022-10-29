@@ -19,7 +19,7 @@ DoHire website is a solution for seeking a person to assign him/her in a specifi
 
 ## Screenshots
 
-![SignUp Page](https://drive.google.com/file/d/1z1KLGPBUAk_ULQfkshHpdE2gvynvNhtK)
+![SignUp Page](https://drive.google.com/file/d/1z1KLGPBUAk_ULQfkshHpdE2gvynvNhtK/view)
 
 ![Login Page](https://drive.google.com/file/d/10aVEmRrnUwo8S5_EEa0gwt5x_UIqxoE4)
 
